@@ -45,7 +45,7 @@ Try it running Python anywhere in the system::
 Complete Documentation
 ======================
 
-Full documentation hosted in Read The Docs
+Full documentation hosted in `Read The Docs <http://python-project-example.readthedocs.org/en/latest/>`_
 
 or build it locally.
 
