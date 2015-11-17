@@ -2,8 +2,8 @@ Python Project Example
 **********************
 
 .. image:: https://readthedocs.org/projects/python-project-example/badge/?version=latest
-:target: http://python-project-example.readthedocs.org/en/latest/?badge=latest
-:alt: Documentation Status
+    :target: http://python-project-example.readthedocs.org/en/latest/?badge=latest
+    :alt: Documentation Status
                 
 .. contents::
    :local:
