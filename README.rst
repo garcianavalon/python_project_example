@@ -41,6 +41,9 @@ Try it running Python anywhere in the system::
     >>> import python_project_example
     >>> python_project_example.are_you_working()
 
+Or use it through the command line::
+
+    $ python_project_example-working
 
 Complete Documentation
 ======================
